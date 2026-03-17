@@ -1,0 +1,753 @@
+# Guía 2
+
+Temática del ejercicio: Características generales de los seres vivos
+
+Reactivo: 17
+Fuente: Guía 2
+
+Planteamiento del problema:
+La __________ es la característica de los seres vivos donde el organismo responde a estímulos.
+
+Opciones:
+A) alimentación
+B) homeostasis
+C) irritabilidad
+D) nutrición
+E) reproducción
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué característica de los seres vivos se refiere a responder a estímulos del ambiente.
+
+Desarrollo y descarte de opciones:
+
+A) alimentación
+Esta opción se refiere al acto de ingerir o conseguir alimento.
+Sí se relaciona con los seres vivos, pero no con responder a estímulos.
+Podría confundir porque también es una función necesaria para vivir.
+Se descarta porque el enunciado habla de reacción ante estímulos, no de comer.
+
+B) homeostasis
+La homeostasis es la capacidad de mantener estable el medio interno del cuerpo, por ejemplo conservar cierta temperatura o equilibrio de agua.
+Sí se relaciona con los seres vivos.
+Podría confundir porque también implica ajustes del organismo.
+Se descarta porque la palabra más directa para “responder a estímulos” no es homeostasis, sino irritabilidad.
+
+C) irritabilidad
+La irritabilidad es la capacidad de un ser vivo para captar cambios del ambiente y responder a ellos.
+Sí se relaciona exactamente con el tema.
+Puede confundir el nombre porque suena a “enojo”, pero en Biología no significa eso.
+Se conserva porque coincide de manera precisa con la definición del reactivo.
+
+D) nutrición
+La nutrición es el proceso por el que los seres vivos obtienen y aprovechan sustancias y energía.
+Sí es una función vital.
+Podría confundir porque también es una característica general de los seres vivos.
+Se descarta porque nutrirse no significa responder a estímulos.
+
+E) reproducción
+La reproducción es el proceso por el que los seres vivos originan descendencia.
+Sí pertenece a las funciones de los seres vivos.
+Podría confundir porque también es una característica biológica importante.
+Se descarta porque el enunciado no habla de tener crías, sino de reaccionar ante cambios.
+
+Opción correcta:
+C) irritabilidad
+
+Argumento:
+La respuesta correcta es irritabilidad porque esa es la característica biológica que permite a los seres vivos detectar estímulos y reaccionar ante ellos. Un estímulo puede ser luz, sonido, calor, frío, contacto o peligro. Por ejemplo, una planta que se orienta hacia la luz o una persona que retira la mano de algo caliente están mostrando irritabilidad.
+
+Pista:
+Busca la opción que en Biología significa reaccionar cuando el ambiente cambia.
+
+---
+---
+
+Temática del ejercicio: Evolución y selección natural
+
+Reactivo: 18
+Fuente: Guía 2
+
+Planteamiento del problema:
+Principal mecanismo de la teoría propuesta por Carlos Darwin:
+
+Opciones:
+A) mutación
+B) adaptación
+C) puntuación
+D) recapitulación
+E) selección
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar cuál es el mecanismo principal de la teoría de Darwin sobre la evolución.
+
+Desarrollo y descarte de opciones:
+
+A) mutación
+La mutación es un cambio en el material genético.
+Sí se relaciona con la evolución en Biología, pero no es el mecanismo principal que propuso Darwin.
+Podría confundir porque hoy sabemos que las mutaciones participan en la variación de los seres vivos.
+Se descarta porque Darwin no explicó su teoría usando la mutación como idea central.
+
+B) adaptación
+La adaptación es una característica o ajuste que ayuda a un ser vivo a sobrevivir mejor.
+Sí se relaciona con la evolución.
+Podría confundir porque en la teoría de Darwin sí aparecen organismos adaptados.
+Se descarta porque la adaptación es más bien un resultado del proceso evolutivo, no el mecanismo principal.
+
+C) puntuación
+Esta opción no corresponde al mecanismo central de la teoría de Darwin.
+Podría confundir por su parecido con expresiones como «equilibrio puntuado», pero eso es otro enfoque posterior.
+Se descarta porque no responde al planteamiento del reactivo.
+
+D) recapitulación
+La recapitulación es una idea asociada a otras explicaciones biológicas, no al mecanismo principal de Darwin.
+Podría confundir porque suena como término científico.
+Se descarta porque no describe cómo ocurre la evolución según Darwin.
+
+E) selección
+La selección se refiere a elegir o favorecer ciertos rasgos sobre otros.
+Sí se relaciona directamente con la teoría de Darwin.
+Podría confundir porque la forma más completa del concepto es «selección natural».
+Se conserva porque es la opción que coincide con el mecanismo principal de la teoría darwinista.
+
+Opción correcta:
+E) selección
+
+Argumento:
+La respuesta correcta es E) selección, porque el mecanismo principal propuesto por Darwin es la selección natural. Esta idea explica que los seres vivos con características que les ayudan a sobrevivir y reproducirse tienen más posibilidades de dejar descendencia. Con el paso del tiempo, esas características se vuelven más comunes en la población. Aunque la opción no dice «natural», es la que más se acerca al concepto correcto.
+
+Pista:
+Busca la opción que no nombra un resultado ni un cambio aislado, sino el proceso por el que ciertos organismos tienen más ventaja para sobrevivir y reproducirse.
+
+---
+---
+
+Temática del ejercicio: Conocimiento empírico y científico
+
+Reactivo: 19
+Fuente: Guía 2
+
+Planteamiento del problema:
+¿Cómo se le llama al conocimiento producto de la transmisión cotidiana?
+
+Opciones:
+A) Empírico
+B) Científico
+C) Experimental
+D) Dinámico
+E) Metódico
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar cómo se llama el conocimiento que se obtiene por la experiencia diaria, la costumbre y lo que la gente transmite en la vida cotidiana.
+
+Desarrollo y descarte de opciones:
+
+A) Empírico
+Esta opción se refiere al conocimiento que surge de la experiencia, de la práctica diaria y de lo que se aprende sin seguir un método científico formal.
+Sí se relaciona exactamente con lo que dice el reactivo.
+Podría confundir porque a veces la palabra suena muy técnica, pero en realidad se refiere a lo que se aprende por experiencia directa.
+Se conserva porque coincide con la idea de transmisión cotidiana.
+
+B) Científico
+Esta opción se refiere al conocimiento que se obtiene mediante observación ordenada, pruebas, análisis y método.
+Sí se relaciona con el conocimiento, pero no con la transmisión cotidiana.
+Podría confundir porque también parte de observar, pero no basta con experiencia diaria.
+Se descarta porque el reactivo no habla de método científico.
+
+C) Experimental
+Esta opción se relaciona con hacer experimentos para comprobar algo.
+Sí tiene relación con la ciencia.
+Podría confundir porque experimentar también implica observar resultados.
+Se descarta porque el enunciado habla de transmisión cotidiana, no de pruebas controladas.
+
+D) Dinámico
+Esta opción habla de algo cambiante o en movimiento.
+No nombra un tipo de conocimiento como tal en este contexto.
+Podría confundir porque suena a término académico.
+Se descarta porque no define el origen cotidiano del conocimiento.
+
+E) Metódico
+Esta opción se refiere a algo que sigue pasos ordenados.
+Sí puede relacionarse con procesos científicos o formales.
+Podría confundir porque el conocimiento científico sí suele ser metódico.
+Se descarta porque la pregunta no habla de orden o método, sino de experiencia cotidiana transmitida.
+
+Opción correcta:
+A) Empírico
+
+Argumento:
+La respuesta correcta es A) empírico porque el conocimiento empírico se forma a partir de la experiencia diaria, la observación común y lo que se transmite entre personas en la vida cotidiana. Por ejemplo, cuando alguien dice que cierta planta “sirve” porque así lo ha visto o aprendido de otras personas, eso es conocimiento empírico. No necesariamente pasó por una investigación formal.
+
+Pista:
+Busca la opción que se relaciona con aprender por experiencia y costumbre, no por laboratorio ni por método formal.
+
+---
+---
+
+Temática del ejercicio: Conocimiento empírico
+
+Reactivo: 20
+Fuente: Guía 2
+
+Planteamiento del problema:
+Un ejemplo de conocimiento empírico, es conocer...
+
+Opciones:
+A) el proceso de germinación de una semilla
+B) cómo se realiza la migración de las aves
+C) la cantidad de protozoarios en un cultivo
+D) que el té amargo cura la bilis
+E) las diferentes etapas de desarrollo de los reptiles
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar cuál opción representa un conocimiento que viene de la experiencia cotidiana y la transmisión común, no de un estudio científico formal.
+
+Desarrollo y descarte de opciones:
+
+A) el proceso de germinación de una semilla
+Esta opción habla de un proceso biológico que normalmente se estudia de manera escolar o científica.
+Sí se relaciona con seres vivos y Biología.
+Podría confundir porque una persona sí puede ver cómo germina una semilla en casa.
+Se descarta porque la frase “proceso de germinación” ya apunta más a una explicación biológica formal que a una creencia o saber cotidiano.
+
+B) cómo se realiza la migración de las aves
+Esta opción habla de un fenómeno natural que suele explicarse con observación y estudio de animales.
+Sí se relaciona con Biología.
+Podría confundir porque mucha gente observa que las aves migran.
+Se descarta porque conocer cómo ocurre la migración implica una explicación más sistemática, no un saber cotidiano transmitido de persona a persona.
+
+C) la cantidad de protozoarios en un cultivo
+Esta opción habla de medir microorganismos en un cultivo.
+Sí se relaciona con Biología.
+Podría confundir porque también es conocimiento.
+Se descarta porque esto requiere observación técnica, conteo y estudio, no conocimiento empírico cotidiano.
+
+D) que el té amargo cura la bilis
+Esta opción expresa una creencia o saber popular que suele transmitirse por costumbre, experiencia familiar o tradición.
+Sí coincide con el tipo de conocimiento empírico.
+Podría confundir porque no necesariamente está comprobado científicamente.
+Se conserva porque justo el conocimiento empírico suele venir de lo que la gente aprende en la vida diaria y repite por experiencia o tradición.
+
+E) las diferentes etapas de desarrollo de los reptiles
+Esta opción habla de un contenido de estudio biológico.
+Sí se relaciona con Biología.
+Podría confundir porque alguien puede haberlo visto en documentales o libros.
+Se descarta porque suena a conocimiento escolar o científico, no a experiencia cotidiana transmitida informalmente.
+
+Opción correcta:
+D) que el té amargo cura la bilis
+
+Argumento:
+La respuesta correcta es D) que el té amargo cura la bilis porque el conocimiento empírico nace de la experiencia cotidiana, de la costumbre y de lo que una persona aprende por transmisión común. No necesita pasar primero por laboratorio o método científico. Esa opción representa justamente una creencia popular o remedio casero aprendido en la vida diaria.
+
+Pista:
+Busca la opción que suene a saber popular o remedio aprendido por costumbre, no a explicación de laboratorio o de clase.
+
+---
+---
+
+Temática del ejercicio: Fotosíntesis
+
+Reactivo: 21
+Fuente: Guía 2
+
+Planteamiento del problema:
+La fotosíntesis es un proceso metabólico importante porque...
+
+Opciones:
+A) genera oxígeno y glucosa
+B) genera dióxido de carbono y glucosa
+C) sólo produce glucosa
+D) produce dióxido de carbono y sales minerales
+E) produce ATP para otras estructuras celulares
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar por qué la fotosíntesis es importante y qué productos genera realmente este proceso.
+
+Desarrollo y descarte de opciones:
+
+A) genera oxígeno y glucosa
+Esta opción dice que en la fotosíntesis se forman oxígeno y glucosa.
+Sí se relaciona exactamente con el tema.
+Podría confundir porque a veces se recuerda sólo que las plantas “producen oxígeno”, pero también producen glucosa.
+Se conserva porque coincide con lo que ocurre en la fotosíntesis.
+
+B) genera dióxido de carbono y glucosa
+Esta opción mezcla un producto correcto con uno incorrecto.
+Sí podría confundir porque la glucosa sí se forma en la fotosíntesis.
+Pero el dióxido de carbono no se produce ahí, sino que se usa como materia prima.
+Se descarta porque cambia un elemento muy importante del proceso.
+
+C) sólo produce glucosa
+Esta opción menciona una parte correcta, pero está incompleta.
+Sí se relaciona con la fotosíntesis porque la glucosa sí se produce.
+Podría confundir porque parece suficiente con mencionar el alimento.
+Se descarta porque la fotosíntesis no sólo produce glucosa, también libera oxígeno.
+
+D) produce dióxido de carbono y sales minerales
+Esta opción no describe bien la fotosíntesis.
+Podría confundir porque las sales minerales sí participan en la vida de la planta, pero no son producto de la fotosíntesis.
+Además, el dióxido de carbono no se produce, se toma del ambiente.
+Se descarta porque invierte el proceso.
+
+E) produce ATP para otras estructuras celulares
+Esta opción menciona ATP, que sí es una molécula relacionada con energía.
+Podría confundir porque suena muy científica y parece correcta.
+Pero el reactivo pregunta por la importancia general de la fotosíntesis y sus productos principales, no por procesos internos temporales de energía.
+Se descarta porque la respuesta esperada en este nivel es oxígeno y glucosa.
+
+Opción correcta:
+A) genera oxígeno y glucosa
+
+Argumento:
+La respuesta correcta es A) genera oxígeno y glucosa, porque durante la fotosíntesis las plantas usan luz solar, agua y dióxido de carbono para fabricar glucosa, que es su alimento, y además liberan oxígeno al ambiente. Por eso este proceso es muy importante: permite que la planta produzca su propio alimento y también aporta oxígeno para otros seres vivos.
+
+Pista:
+Busca la opción donde aparezca el alimento que fabrica la planta y el gas que libera al ambiente.
+
+---
+---
+
+Temática del ejercicio: Nutrición: autótrofos y heterótrofos
+
+Reactivo: 22
+Fuente: Guía 2
+
+Planteamiento del problema:
+Tipos de organismo que podrían sobrevivir en el planeta sin necesidad de otros, porque pueden completar sus ciclos metabólicos solos:
+
+Opciones:
+A) Heterótrofos
+B) Hongos
+C) Autótrofos
+D) Eucariontes
+E) Anaerobios
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué tipo de organismos pueden producir su propio alimento y, por eso, no dependen directamente de otros seres vivos para completar sus procesos metabólicos.
+
+Desarrollo y descarte de opciones:
+
+A) Heterótrofos
+Los heterótrofos son organismos que no producen su propio alimento.
+Sí se relacionan con la nutrición, pero dependen de otros seres vivos o de materia orgánica para obtener energía.
+Puede confundir porque también son organismos muy comunes, como los animales.
+Se descarta porque el reactivo pide justamente a los que pueden vivir sin depender alimentariamente de otros.
+
+B) Hongos
+Los hongos son seres vivos, pero son heterótrofos.
+Sí se relacionan con el tema porque también obtienen nutrientes.
+Puede confundir porque viven de manera independiente como organismos, pero eso no significa que fabriquen su propio alimento.
+Se descarta porque toman nutrientes del exterior y no completan solos ese proceso como los productores.
+
+C) Autótrofos
+Los autótrofos son organismos que elaboran su propio alimento, por ejemplo mediante fotosíntesis.
+Sí se relacionan exactamente con el planteamiento.
+Puede confundir si el alumno no recuerda la diferencia entre autótrofo y heterótrofo.
+Se conserva porque son los organismos que no necesitan alimentarse de otros para obtener su materia orgánica básica.
+
+D) Eucariontes
+Los eucariontes son organismos con células que tienen núcleo definido.
+Sí es una clasificación biológica real.
+Puede confundir porque incluye muchos seres vivos distintos, como plantas, animales, hongos y protistas.
+Se descarta porque ser eucarionte no dice si produce su alimento o no.
+
+E) Anaerobios
+Los anaerobios son organismos que pueden vivir sin oxígeno o con muy poco oxígeno.
+Sí es una característica biológica.
+Puede confundir porque habla de una forma de supervivencia.
+Se descarta porque el reactivo no pregunta por uso de oxígeno, sino por producción de alimento y autonomía metabólica.
+
+Opción correcta:
+C) Autótrofos
+
+Argumento:
+La respuesta correcta es C) autótrofos, porque estos organismos pueden fabricar su propio alimento a partir de sustancias simples del medio. Un ejemplo son las plantas, que usan agua, dióxido de carbono y luz solar para producir glucosa en la fotosíntesis. Por eso no dependen de otros seres vivos para obtener directamente su alimento, a diferencia de los heterótrofos.
+
+Pista:
+Busca la opción que nombre a los organismos productores, es decir, los que elaboran su propio alimento.
+
+---
+---
+
+Temática del ejercicio: Biomoléculas, nutrición y clasificación de sustancias orgánicas
+
+Reactivo: 23
+Fuente: Guía 2
+
+Planteamiento del problema:
+Son ejemplo de biomoléculas clasificadas como glúcidos:
+
+Opciones:
+A) fructosa y sacarosa
+B) amilasa y ATP
+C) hemoglobina y albúmina
+D) glicerol y triglicéridos
+E) colesterol y amilasa
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué opción contiene sustancias que sí pertenecen al grupo de los glúcidos, es decir, carbohidratos o azúcares.
+
+Desarrollo y descarte de opciones:
+
+A) fructosa y sacarosa
+La fructosa es un azúcar simple y la sacarosa es un azúcar compuesto.
+Sí se relacionan directamente con los glúcidos.
+Puede confundir porque algunos alumnos ubican mejor la palabra “carbohidrato” que “glúcido”.
+Se conserva porque ambas sustancias son azúcares, y los azúcares pertenecen a los glúcidos.
+
+B) amilasa y ATP
+La amilasa es una enzima, o sea, una proteína que ayuda a descomponer almidones. El ATP es una molécula relacionada con energía celular.
+Sí son biomoléculas, pero no son glúcidos.
+Puede confundir porque la amilasa trabaja sobre carbohidratos y el ATP aparece mucho en temas de metabolismo.
+Se descarta porque ninguna de las dos es un glúcido.
+
+C) hemoglobina y albúmina
+La hemoglobina transporta oxígeno y la albúmina es una proteína presente en el cuerpo.
+Sí son biomoléculas.
+Puede confundir porque son sustancias muy conocidas del organismo.
+Se descarta porque ambas son proteínas, no glúcidos.
+
+D) glicerol y triglicéridos
+El glicerol forma parte de grasas y los triglicéridos son lípidos.
+Sí se relacionan con nutrición y biomoléculas.
+Puede confundir porque también son compuestos orgánicos importantes.
+Se descarta porque pertenecen al grupo de los lípidos, no al de los glúcidos.
+
+E) colesterol y amilasa
+El colesterol es un lípido y la amilasa es una proteína enzimática.
+Sí son biomoléculas.
+Puede confundir porque ambas aparecen en temas del cuerpo humano y alimentación.
+Se descarta porque no son glúcidos.
+
+Opción correcta:
+A) fructosa y sacarosa
+
+Argumento:
+La respuesta correcta es A) fructosa y sacarosa porque ambas son azúcares. Los glúcidos son biomoléculas conocidas también como carbohidratos. Dentro de este grupo entran azúcares como la fructosa y la sacarosa, además del almidón y la glucosa. Las demás opciones incluyen proteínas, lípidos o moléculas energéticas, pero no glúcidos.
+
+Pista:
+Busca la opción donde aparezcan dos azúcares.
+
+---
+---
+
+Temática del ejercicio: Parasitismo: parásitos internos y externos
+
+Reactivo: 24
+Fuente: Guía 2
+
+Planteamiento del problema:
+¿Cuáles de los siguientes organismos son parásitos internos?
+
+I. Solitaria.
+II. Lombriz intestinal.
+III. Chinche.
+IV. Piojo.
+V. Ácaro.
+VI. Hongo.
+
+Opciones:
+A) I, II y II
+B) I, II y VI
+C) II, III y IV
+D) II, IV y V
+E) II, V y VI
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar cuáles organismos viven dentro del cuerpo del hospedero y no sobre la superficie del cuerpo.
+
+Desarrollo y descarte de opciones:
+
+A) I, II y II
+Esta opción incluye solitaria y lombriz intestinal. Ambos sí son parásitos internos.
+La repetición de II parece un error de escritura en la guía, porque vuelve a mencionar la lombriz intestinal.
+Puede confundir porque la opción está rara y parece incompleta o repetida.
+Se conserva porque, aun con esa repetición, es la única que realmente apunta a los organismos internos correctos.
+
+B) I, II y VI
+Incluye solitaria y lombriz intestinal, que sí son internos, pero también incluye hongo.
+Puede confundir porque algunos hongos pueden vivir en un organismo, pero en este tipo de reactivo escolar no se consideran aquí como parásitos internos del mismo modo que la solitaria o la lombriz.
+Se descarta porque mete un organismo que no corresponde al grupo esperado en la pregunta.
+
+C) II, III y IV
+Incluye lombriz intestinal, chinche y piojo.
+La lombriz intestinal sí es interna.
+La chinche y el piojo son parásitos externos, porque están sobre el cuerpo o en la piel y el cabello.
+Puede confundir porque todos se alimentan de otro ser vivo.
+Se descarta porque mezcla un parásito interno con dos externos.
+
+D) II, IV y V
+Incluye lombriz intestinal, piojo y ácaro.
+La lombriz intestinal sí es interna.
+El piojo y el ácaro se consideran externos en este contexto escolar, porque viven sobre la piel, el cabello o zonas superficiales.
+Puede confundir porque el ácaro es muy pequeño y algunos alumnos creen que por eso es “interno”.
+Se descarta porque no todos los que aparecen ahí son internos.
+
+E) II, V y VI
+Incluye lombriz intestinal, ácaro y hongo.
+La lombriz intestinal sí es interna.
+El ácaro se considera externo en este tipo de clasificación.
+El hongo no corresponde aquí como parásito interno esperado por el reactivo.
+Puede confundir porque junta organismos que sí causan daño o enfermedad.
+Se descarta porque no reúne sólo parásitos internos.
+
+Opción correcta:
+A) I, II y II
+
+Argumento:
+La respuesta correcta es A) I, II y II, tal como aparece en la guía. Aunque la opción parece tener una repetición de II, sigue siendo la única que señala a los organismos internos correctos: la solitaria y la lombriz intestinal. Ambos viven dentro del cuerpo del hospedero, sobre todo en el aparato digestivo. En cambio, la chinche, el piojo y el ácaro son externos porque viven en la superficie del cuerpo o muy cerca de ella.
+
+Pista:
+Busca la opción donde aparezcan organismos que viven dentro del cuerpo, no en la piel, el cabello o la superficie.
+
+---
+---
+
+Temática del ejercicio: Reproducción y desarrollo sexual humano
+
+Reactivo: 25
+Fuente: Guía 2
+
+Planteamiento del problema:
+Son caracteres sexuales primarios:
+
+Opciones:
+A) El ciclo menstrual y vello axilar.
+B) Aumento en la musculatura y ensanchamiento de la cadera.
+C) Los aparatos reproductores masculino y femenino.
+D) Ensanchamiento de hombros y cadera.
+E) Vello axilar y engrosamiento de voz.
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar cuáles son los caracteres sexuales primarios, es decir, los órganos sexuales con los que una persona nace y que participan directamente en la reproducción.
+
+Desarrollo y descarte de opciones:
+
+A) El ciclo menstrual y vello axilar.
+El ciclo menstrual es un proceso biológico y el vello axilar es un cambio corporal de la pubertad.
+Sí se relacionan con el desarrollo sexual.
+Puede confundir porque ambos aparecen en la adolescencia y se asocian con madurez sexual.
+Se descarta porque no son caracteres sexuales primarios. El vello axilar es secundario y el ciclo menstrual no es un órgano sexual.
+
+B) Aumento en la musculatura y ensanchamiento de la cadera.
+Estos son cambios físicos que aparecen en la pubertad.
+Sí se relacionan con diferencias sexuales entre hombre y mujer.
+Puede confundir porque son rasgos visibles del desarrollo sexual.
+Se descarta porque son caracteres sexuales secundarios, no primarios.
+
+C) Los aparatos reproductores masculino y femenino.
+Esta opción se refiere a los órganos sexuales que intervienen directamente en la reproducción.
+Sí se relaciona exactamente con el concepto.
+Puede confundir sólo si el alumno mezcla órganos reproductores con cambios de la pubertad.
+Se conserva porque los caracteres sexuales primarios son precisamente los aparatos reproductores.
+
+D) Ensanchamiento de hombros y cadera.
+Estos son cambios físicos del cuerpo durante la pubertad.
+Sí se relacionan con el desarrollo sexual.
+Puede confundir porque diferencian el cuerpo masculino y femenino.
+Se descarta porque son caracteres sexuales secundarios.
+
+E) Vello axilar y engrosamiento de voz.
+Estos son cambios que aparecen principalmente en la adolescencia.
+Sí se relacionan con la maduración sexual.
+Puede confundir porque son rasgos muy conocidos.
+Se descarta porque ambos son caracteres sexuales secundarios.
+
+Opción correcta:
+C) Los aparatos reproductores masculino y femenino.
+
+Argumento:
+La respuesta correcta es C) Los aparatos reproductores masculino y femenino, porque los caracteres sexuales primarios son los órganos sexuales presentes desde el nacimiento y que tienen función directa en la reproducción. En cambio, el vello, la voz, la musculatura o el ensanchamiento de ciertas partes del cuerpo aparecen después, sobre todo en la pubertad, y se consideran caracteres sexuales secundarios.
+
+Pista:
+Busca la opción que mencione órganos reproductores, no cambios físicos que aparecen al crecer.
+
+---
+---
+
+Temática del ejercicio: Reproducción y anticonceptivos
+
+Reactivo: 26
+Fuente: Guía 2
+
+Planteamiento del problema:
+¿Cuál de los siguientes métodos anticonceptivos es quirúrgico?
+
+Opciones:
+A) Preservativo o condón.
+B) Diafragma.
+C) Vasectomía.
+D) Dispositivo intrauterino (DIU).
+E) Espermaticidas.
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué método anticonceptivo requiere una intervención quirúrgica.
+
+Desarrollo y descarte de opciones:
+
+A) Preservativo o condón.
+El condón es un método de barrera que evita que los espermatozoides entren al cuerpo.
+Sí se relaciona con anticonceptivos.
+Puede confundir porque es un método muy conocido y eficaz si se usa bien.
+Se descarta porque no requiere cirugía.
+
+B) Diafragma.
+El diafragma es una barrera que se coloca en la vagina para bloquear el paso de los espermatozoides.
+Sí se relaciona con anticoncepción.
+Puede confundir porque se coloca dentro del cuerpo, pero eso no lo vuelve quirúrgico.
+Se descarta porque no implica operación.
+
+C) Vasectomía.
+La vasectomía es un procedimiento médico en el que se cortan o bloquean conductos para evitar que los espermatozoides salgan con el semen.
+Sí se relaciona exactamente con el tema.
+Puede confundir porque algunas personas la comparan con otros métodos permanentes, pero aquí sí es un procedimiento quirúrgico.
+Se conserva porque requiere intervención médica quirúrgica.
+
+D) Dispositivo intrauterino (DIU).
+El DIU es un método que se coloca dentro del útero para evitar el embarazo.
+Sí se relaciona con anticonceptivos.
+Puede confundir porque lo coloca personal médico y va dentro del cuerpo.
+Se descarta porque su colocación no es una cirugía.
+
+E) Espermaticidas.
+Los espermaticidas son sustancias químicas que dañan o inmovilizan espermatozoides.
+Sí se relacionan con anticonceptivos.
+Puede confundir porque son de uso directo para evitar el embarazo.
+Se descarta porque no requieren intervención quirúrgica.
+
+Opción correcta:
+C) Vasectomía.
+
+Argumento:
+La respuesta correcta es C) vasectomía, porque es un método anticonceptivo quirúrgico. A diferencia del condón, el diafragma, el DIU o los espermaticidas, la vasectomía sí necesita un procedimiento médico para bloquear el paso de los espermatozoides. Por eso entra en la categoría de métodos quirúrgicos.
+
+Pista:
+Busca la opción que no se usa ni se coloca solamente, sino que necesita un procedimiento médico para impedir el paso de espermatozoides.
+
+---
+---
+
+Temática del ejercicio: Herencia mendeliana y genotipo-fenotipo
+
+Reactivo: 27
+Fuente: Guía 2
+
+Planteamiento del problema:
+Si una planta tiene genotipo Rr para el color de la flor, en donde R = rojo y r = blanco, ¿cuál será el fenotipo de la flor de la primera generación si se siguen las Leyes de Mendel?
+
+Opciones:
+A) Blanco
+B) Rojo
+C) Rosa
+D) Rojo con manchas blancas
+E) Blanco con manchas rojas
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué color se observa en la flor cuando el genotipo es Rr, siguiendo la idea de dominancia de Mendel.
+
+Desarrollo y descarte de opciones:
+
+A) Blanco
+Esta opción dice que se expresa el color asociado con r.
+Sí se relaciona con el tema, porque r representa blanco.
+Puede confundir porque el genotipo sí tiene una letra r.
+Se descarta porque en Rr también está la letra R, y en genética mendeliana la mayúscula representa el rasgo dominante.
+
+B) Rojo
+Esta opción dice que se expresa el color asociado con R.
+Sí se relaciona exactamente con el tema.
+Puede confundir si el alumno piensa que por haber dos letras distintas se mezclan los colores.
+Se conserva porque en el genotipo Rr el alelo dominante es R, y por eso el rasgo visible es rojo.
+
+C) Rosa
+Esta opción implica mezcla entre rojo y blanco.
+Sí podría parecer lógica a primera vista.
+Puede confundir porque algunos alumnos imaginan que los dos colores se combinan.
+Se descarta porque el reactivo dice que se siguen las Leyes de Mendel, y en este caso se trabaja con dominancia, no con mezcla intermedia.
+
+D) Rojo con manchas blancas
+Esta opción propone que ambos colores se vean al mismo tiempo.
+Sí podría confundir porque el genotipo tiene dos alelos distintos.
+Puede confundir bastante si el alumno cree que ambos alelos siempre se observan juntos.
+Se descarta porque en el modelo mendeliano básico el dominante oculta al recesivo en el fenotipo.
+
+E) Blanco con manchas rojas
+Esta opción también propone expresión visible de ambos colores.
+Sí se relaciona con la idea de que hay dos alelos.
+Puede confundir por la misma razón que la anterior.
+Se descarta porque no corresponde a la dominancia simple que plantea Mendel en este tipo de ejercicio.
+
+Opción correcta:
+B) Rojo
+
+Argumento:
+La respuesta correcta es B) rojo, porque el genotipo es Rr y la letra mayúscula R representa el alelo dominante. En las Leyes de Mendel, cuando un organismo tiene un alelo dominante y uno recesivo, el rasgo que se observa en el fenotipo es el dominante. Por eso, aunque la planta tenga también el alelo r de color blanco, el color visible de la flor será rojo.
+
+Pista:
+Fíjate en cuál alelo está en mayúscula. En genética mendeliana, ese rasgo es el que normalmente se expresa.
+
+---
+---
+
+Temática del ejercicio: Genética y ácidos nucleicos
+
+Reactivo: 28
+Fuente: Guía 2
+
+Planteamiento del problema:
+28.- La unión que se establece entre la adenina-timina y guanina-citosina corresponde a la estructura de la molécula llamada ácido
+
+Opciones:
+A) desoxirribonucleico
+B) ribonucleico
+C) linoleico
+D) etanoíco
+E) fálico
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar a qué tipo de ácido pertenece la molécula donde se unen las bases adenina con timina y guanina con citosina.
+
+Desarrollo y descarte de opciones:
+
+A) desoxirribonucleico
+Esta opción se refiere al ADN.
+Sí se relaciona exactamente con el tema.
+Puede confundir porque el nombre es largo y fácil de revolver.
+Se conserva porque en el ADN las bases se aparean como adenina con timina y guanina con citosina.
+
+B) ribonucleico
+Esta opción se refiere al ARN.
+Sí se relaciona con genética y ácidos nucleicos.
+Puede confundir porque también es un ácido nucleico.
+Se descarta porque en el ARN no aparece la pareja adenina-timina, sino adenina-uracilo.
+
+C) linoleico
+Esta opción se refiere a un ácido graso.
+Sí es un tipo de ácido, pero no pertenece a la estructura del material genético.
+Puede confundir porque suena científico.
+Se descarta porque no tiene relación con las bases nitrogenadas del ADN.
+
+D) etanoíco
+Esta opción se refiere a un compuesto químico conocido como ácido acético.
+Sí es un ácido, pero no tiene relación con la molécula genética que usa esas bases.
+Puede confundir porque también es nombre químico.
+Se descarta porque no corresponde a ADN ni ARN.
+
+E) fálico
+Esta opción no corresponde a la molécula genética que se describe en el reactivo.
+Puede confundir por el nombre, pero no coincide con la estructura de bases mencionada.
+Se descarta porque no es la respuesta correcta para este contexto biológico.
+
+Opción correcta:
+A) desoxirribonucleico
+
+Argumento:
+La respuesta correcta es A) desoxirribonucleico porque la unión adenina-timina y guanina-citosina corresponde al ADN, cuyo nombre completo es ácido desoxirribonucleico. Esa combinación de bases es propia del ADN. Si fuera ARN, la adenina no se uniría con timina, sino con uracilo.
+
+Pista:
+Busca la opción que corresponda a la molécula donde aparece timina; esa palabra te ayuda a distinguirla del ARN.
+
+---
+---
+---

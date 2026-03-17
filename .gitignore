@@ -1,0 +1,6 @@
+.vercel/
+node_modules/
+output/
+test-results/
+playwright-report/
+*.log
